@@ -1,5 +1,15 @@
-# 芒果大帝
+---
+layout:       post
+title:        "关于此网站"
+author:       "666"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
 
-1. 班天敌
-2. 勤学早
-3. 考试
+> 网站纯属瞎搞【doge]
+
+MANGO666
+
