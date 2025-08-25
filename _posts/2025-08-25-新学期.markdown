@@ -1,0 +1,15 @@
+---
+layout:       post
+title:        "开学倒计时"
+author:       "666"
+header-style: text
+catalog:      true
+tags:
+    - 2025
+    - other
+---
+
+> 作业——是不可能写完的
+
+这些作业真是写不了一点啊
+
