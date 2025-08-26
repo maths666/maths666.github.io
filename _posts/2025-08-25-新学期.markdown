@@ -1,15 +1,16 @@
 ---
 layout:       post
-title:        "新学期要来力！"
-author:       "666"
+title:        "JSCL"
+author:       "https://jsstyj.jiangsu.gov.cn/col/col92672/index.html"
 header-style: text
+header-img: img/2025-08-JSCL.png
 catalog:      true
 tags:
     - 2025
     - other
 ---
 
-> 作业——是不可能写完的
+> ----------
 
-这些作业真是写不了一点啊
+-----------------------------
 
