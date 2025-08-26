@@ -3,6 +3,7 @@ layout:       post
 title:        "JSCL"
 author:       "https://jsstyj.jiangsu.gov.cn/art/2025/8/17/art_92672_11624729.html"
 header-style: text
+header-img: img/2025-08-JSCL.png
 catalog:      true
 tags:
     - 2025
