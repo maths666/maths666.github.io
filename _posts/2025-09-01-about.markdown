@@ -1,0 +1,14 @@
+---
+layout:       post
+title:        "ABOUT"
+author:       "admin"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+> 关于此网站
+
+本站基于JAVA 和html编写，感谢@黄玄提供相关模板，本站将永久托管在Github Pages项目上，项目名称”maths666.github.io“.
