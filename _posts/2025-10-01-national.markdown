@@ -1,0 +1,12 @@
+---
+layout:       post
+title:        "国庆节快乐！"
+author:       "站长"
+header-style: text
+catalog:      true
+tags:
+    - China
+    - National Day
+---
+
+> 祝福祖国繁荣昌盛！
