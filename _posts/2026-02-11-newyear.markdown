@@ -1,0 +1,14 @@
+---
+layout:       post
+title:        "新年快乐"
+author:       "ZJR"
+header-style: text
+catalog:      true
+tags:
+    - NEW YEAR
+    - Upgrade001
+---
+
+> 新年快乐！HAPPY NEW YEAR
+
+在这马年到来之际，本站为您和您的家人献上最诚挚的问候和最真诚的祝福。愿您在新的一年万事顺意，马到成功！
