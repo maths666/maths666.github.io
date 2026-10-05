@@ -34,7 +34,7 @@ jobs:
       - name: Checkout
       - name: Setup Node.js
         with: node-version:24
-        uses: actions/setup-node@v4
+          uses: actions/setup-node@v4
         
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
