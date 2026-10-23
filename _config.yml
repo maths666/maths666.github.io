@@ -1,6 +1,6 @@
 # ===================== 站点基础设置 =====================
-title: SHUAQI
-SEOTitle: 123 Website
+title: "Origin"
+SEOTitle: "Origin Website"
 header-img: img/home-bg.jpg
 email: zjrkouzan@gmail.com
 description: >-
@@ -74,8 +74,8 @@ featured-condition-size: 2
 chrome-tab-theme-color: "#2c3e50"
 service-worker: true
 page-mathjax: true# ===================== 站点基础设置 =====================
-title: Maths666
-SEOTitle: Maths666 Website
+title: "Origin"
+SEOTitle: "Origin Website"
 header-img: img/home-bg.jpg
 email: zjrkouzan@gmail.com
 description: >-
