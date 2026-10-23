@@ -1,7 +1,7 @@
 # ===================== 站点基础设置 =====================
 title: "Origin"
 SEOTitle: "Origin Website"
-header-img: img/home-bg.jpg
+header-img: img/home-bg.png
 email: zjrkouzan@gmail.com
 description: >-
   Maths666 personal website, sharing mathematics, web development and technical notes.
@@ -76,7 +76,7 @@ service-worker: true
 page-mathjax: true# ===================== 站点基础设置 =====================
 title: "Origin"
 SEOTitle: "Origin Website"
-header-img: img/home-bg.jpg
+header-img: img/home-bg.png
 email: zjrkouzan@gmail.com
 description: >-
   Maths666 personal website, sharing mathematics, web development and technical notes.
